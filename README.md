@@ -1,3 +1,4 @@
+# Arsalan
 Differentialekvationen $y' = 4y+2x^2$
 
 Den exakta lösningen är $y(x) = \frac{17}{16}e^{4x} - \frac{1}{2}x^2 - \frac{1}{4}x - \frac{1}{16}$
